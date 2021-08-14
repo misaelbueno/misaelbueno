@@ -29,7 +29,8 @@
 
  <div>
   <a href="https://github.com/misaelbueno">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misaelbueno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelbueno&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=misaelbueno&hide_title=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=misaelbueno&hide_title=true&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+ 
