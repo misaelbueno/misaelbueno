@@ -23,7 +23,8 @@
   <img src="https://cdn.iconscout.com/icon/free/png-64/redux-3629018-3030243.png" alt="redux" width="40" height="40"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-64/jest-3521517-2945020.png" alt="jest" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/mysql-3628940-3030165.png" alt="mysql" width="40" height="40"/>
-   <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40"/> 
+  <img src="https://cdn.iconscout.com/icon/free/png-256/mongodb-226029.png" alt="mongodb" width="40" height="40"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919825.png" alt="nodejs" width="40" height="40"/> 
   
  
 </p>
