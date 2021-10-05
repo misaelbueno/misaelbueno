@@ -3,7 +3,7 @@
 ### Sobre mim
 
 - 🌱 Atualmente sou estudante de Desenvolvimento Web. 
-- 🚀 Buscando ser melhor a cada dia, sendo curioso e aprendendo sempre.
+- 🚀 Buscando ser melhor a cada dia, curioso e aprendendo sempre.
 - 📫 Pode entrar em contato comigo através do email: misa.hbueno@gmail.com
 
 <div>
