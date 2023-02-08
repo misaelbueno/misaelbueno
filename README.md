@@ -2,8 +2,8 @@
 
 ### Sobre mim
 
-- 🌱 Atualmente sou estudante de Desenvolvimento Web. 
-- 🚀 Buscando ser melhor a cada dia, curioso e aprendendo sempre.
+- 🌱 Formado em Desenvolvimento Web pela Trybe. 
+- 🚀 Buscando evoluir a cada dia, curioso e aprendendo sempre.
 - 📫 Pode entrar em contato comigo através do email: misa.hbueno@gmail.com
 
 <div>
