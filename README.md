@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-- 🌱 Formado em Desenvolvimento Web pela Trybe. 
+- 🌱 Desenvolvedor de software.
 - 🚀 Buscando evoluir a cada dia, curioso e aprendendo sempre.
 - 📫 Pode entrar em contato comigo através do email: misa.hbueno@gmail.com
 
