@@ -3,7 +3,7 @@
 ### Sobre mim
 
 - 🌱 Desenvolvedor de software.
-- 🚀 Buscando evoluir a cada dia, curioso e aprendendo sempre.
+- 🚀 Em busca de evolução constante, com curiosidade e aprendizados diários.
 - 📫 Pode entrar em contato comigo através do email: misa.hbueno@gmail.com
 
 <div>
